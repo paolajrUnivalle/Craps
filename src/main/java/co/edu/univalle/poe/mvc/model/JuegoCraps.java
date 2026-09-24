@@ -79,4 +79,8 @@ public class JuegoCraps {
     public int getPunto(){
         return punto;
     }
+
+    public EstadoPartida getEstadoPartida(){
+        return estadoPartida;
+    }
 }
